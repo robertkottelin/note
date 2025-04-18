@@ -172,3 +172,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+backend/equity.db
+backend/note/lib64
+backend/note/pyvenv.cfg
+backend/note/bin/activate.csh
+backend/note/bin/Activate.ps1
+backend/note/bin/activate.fish
+.gitignore
+backend/note/bin/activate
+.gitignore
+backend/note/bin/dotenv
+.gitignore
+backend/note/bin/flask
+backend/note/bin/pip
+backend/note/bin/pip3
+backend/note/bin/pip3.9
+backend/note/bin/python
+backend/note/bin/python3
+backend/note/bin/python3.9
+backend/note/include/site/python3.9/greenlet/greenlet.h
